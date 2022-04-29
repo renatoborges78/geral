@@ -1,0 +1,475 @@
+#EXTM3U
+
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",13 Max
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",13 Max
+http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Argentinísima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",BAHRAIN INTERNATIONAL
+http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",BAHRAIN TV
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",CANAL PROVINCIAL SAN MIGUEL
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",CPEtv
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",CPEtv
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal 10 Cordoba
+https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal 10 Rio Negro
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal 26
+http://200.115.193.177/live/26hd-180/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal 26
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal 26
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal 26
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal 4 San Juan
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Chacra TV
+http://s8.stweb.tv:1935/chacra/live/chunks.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",DUB-NOOR DUBAI HD
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",El Garage
+http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Frecuencia Musical TV
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",IRQ-Naba TV
+http://31.14.40.238:1935/live/Nabaa/chunklist_w881472197.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",LIB-Al Nabaa
+http://31.14.40.238:1935/live/Nabaa/chunklist_w1044439584.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",MR-MEDI1 HD
+http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/chunklist_w1604542278.m3u8?v=&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",MUSICA:Music Top Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Music TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1582140541_b364000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",PAL-Nbc Alnajah TV
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/media.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TLX
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?tecnotv.info&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TLX
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Maná Córdoba
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Maná Córdoba
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Telemax
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Tierramia TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Télam 4
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Tele Aruba
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Tele Aruba Channel 13
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Tele Aruba Channel 23
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/chunklist_w569753524.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Bolivia TV Deportes 7.2
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Católica TV
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Católica TV
+http://136.243.3.70:1935/CatolicaTv/CatolicaTv/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Red ADVenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Unitel
+http://136.243.3.70:1935/Unitel/Unitel/chunklist_w1949818179_DVR.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",98 Live (Belo Horizonte)
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Agro Brasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_101
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_110
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_123
+http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_17
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_18
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Melody Channel TV
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Mundo+
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Suram
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Telecaribe
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Teleislas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Nos Païs
+http://highvolume04.streampartner.nl:1935/nos_pais_24_7/smil:livestream.stream.smil/chunklist_w1798703532_b2000000.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Direct 13
+http://edge1.tvdirect13.com/live/smil:mystream.smil/playlist_720p.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Ecuavisa HD
+http://173.212.247.99/hls/tvec2.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RTS Ecuador
+http://173.212.247.99/hls/tvec3.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Teleamazonas HD
+http://173.212.247.99/hls/tvec4.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",BHtv
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",BHtv
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Pax TV
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TeleSUR English (Opt-1) (Venezuela)
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TeleSUR English
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/chunklist_w801355776.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Capital Lucelia
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Carioca
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Cidade Canal 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Cidade Oeste
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Cidade de Petrópolis
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Cinec
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Comunitária do Rio de Janeiro
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Cultura
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Câmara 2
+https://stream3.camara.gov.br/tv2/manifest.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Digital Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Educativa de Porto Alegre
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Evangelizar
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Faap
+http://bit.ly/2CyHmr0?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Faap
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Galega Blumenau
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Guará
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Imaculada Conceição
+https://caikron.com.br:8082/tvmi/tvmi/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Mackenzie
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Mar Maceió
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Max Rio
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Metropolitana Rio
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w981877315.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Paraná
+http://200.189.113.201/hls/tve.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Poços
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Senado
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Sol
+http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Tropical RN
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV UFSC
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Universal
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV União DF
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Verdes Campos
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV na Ilha
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TVCI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TVCI Paranaguá
+http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TVDS
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TVN Brasil
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TVU Recife
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",UniTV Porto Alegre
+http://unitvaovivo.ufrgs.br:8080/live.ogg?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Viva Web TV
+http://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Web TV Minas
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Web TV Santana
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Web TV Uai
+https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Yeeaah!
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",ZOOM
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Antofagasta TV
+https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Campus TV
+https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Chile 5 FTA
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",El Pinguino Tv Punta Arenas
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Holvoet TV
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Holvoet TV
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",ITV Patagonia
+https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Quinta TV
+https://593b04c4c5670.streamlock.net/8042/8042/chunklist_w19663722.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Radio El Conquistador
+http://eu1.servers10.com:1935/8282/8282/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Senado
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV5 Linares
+http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Teletrak
+http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",UESTV
+http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/chunklist_w1780377540.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal 8 Teleenvigado
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal CNC Medellin
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_20
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_27
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_29
+http://213.13.26.11:1935/live/portocanal/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_35
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_47
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_5
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_51
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_MD5iIrjmj5ScV9-fwwm9L-nxefjFfjl9A-XAQLAqqzwFduBW&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_53
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd794kHmCl536b27pcCjSZiJ6HyZMxIoG1pHC-5pQ3i5Mih4lv&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_55
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR70shyfJmW0ABnluYhuJnl1vY83sUfGac--rA-9et32zJBMJVR&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_59
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1qImkGTS4tIrklxASF74RGYUl6OBaoAjrKV5R_BWCZlQcf4OH&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_6
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_60
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkIsS3-7Wmy4Kp1qDpogzH6u8bcCIanU3JurrW4DzUsGB0U1Ez&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_62
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN2I5v-LLrb32Bq74oyZcPmNixd5NrwiMEcpXLHEOPYdBphPhP&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_64
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvlrBJMmrqzQgnqVvnOxfyUBniLaia904Q-paJQri3kKlI6bUk&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_66
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcM6B8R4WaQ3vprwns5YoQv6JTOmO2lydzZQccChQK8pPXxBy4&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_67
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRESoEe2lrbZ2PB2iaoy7X9iy-gN8_O1YQekHfGG-MiQT0dF2O5&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_68
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmX31HFuXGoPHLZOGqQJIW7uOTaoaBYtMA8C6TgxsGoTnrxTfqCg&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_69
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSxubfc61mrtFdMdwhaL8wzh7-mpKuu40OcrSAiuXvXlXUKfA7&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_70
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-Vf65YehC1Jjmy_CHT7878ZqFjfmkw5MSoabtbPK3YAw9qoK&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_71
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqNDkEpNas5s3PtamWEXjXg3lQ-eXt4hwhH-pAsKTRrMe2mzXV&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_80
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSH6hwVXgsQw4izW-qnpvqYwM3DckWJCm5XqCcq8HRcpDJcB9sA&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_81
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAmDKLFNlkxuVvxFht_1Jo-_03e4j35-5f7H4zIRlI6rkug4yA&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_83
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_85
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuHh-mQXPlrJFdhDXTr_hypLHNbRko2Vu9r4gL8dXVe0GI-GtJ&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_86
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNYMFmVWvKegS57UBwLD1M1T0flACJrmUyslZ0tTxIzhd7_1dN&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_87
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxhIxYpHaW_Gy-STCJvN3N-GrIVY7WqjLQIvBXpPfyhuad5dgB&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_89
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_9
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_90
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuzEa63M07BZNTXGvY85k-RKA4j3e8r3NQB4HBNN5VhC8ZUQ7u&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Brasil IPTV_91
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnnQ9boXmS2m_wUHYxpqfJTiniRSj5fbZNjrJoZ9ww9VhDOMAK&IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",COM Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal 25 Jundiaí
+http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canal Ricos
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Canção Nova
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Cine+
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Esporte Interativo Plus
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Itú TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",MKK Web TV
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Nova Era TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Novo Tempo
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",PUC TV Goias
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Portal Cultura Pará
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RCI
+http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Rede Brasil
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Rede Brasil de Comunicação
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Rede Mão Amiga
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Rede RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Rede Século 21
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Rede TV Mais
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Rede União
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Santa Cecilia TV
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Sesc TV
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Summer TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV ALMG
+https://peertube.minio.lister.sbob.uk/streaming-playlists/hls/282aed3b-eec5-4a3e-9e4d-170e0eef8235/c92128e0-d0eb-49a9-805e-73226eec60fd-720.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Ambiental
+http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?IMDSFULL
+
