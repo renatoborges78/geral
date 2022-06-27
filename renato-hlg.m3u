@@ -8,3 +8,6 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo SP
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/HnL2uBA.png" group-title="Brasil: variedades em português",Band | Brasil
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
