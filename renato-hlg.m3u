@@ -6,14 +6,5 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?IMDSFULL
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="Canais Abertos",SBT HD
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo SP HD
-http://rhagf.co:25461/live/c4b3cao/8sz6y03K3T/1676.ts
-
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo SP
-http://rhagf.co:25461/live/c4b3cao/8sz6y03K3T/1493.ts
-
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD Alternativo" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo SP HD Alternativo
-http://rhagf.co:25461/live/c4b3cao/8sz6y03K3T/5095.ts
-
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP Alternativo" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo SP Alternativo
-http://rhagf.co:25461/live/c4b3cao/8sz6y03K3T/1978.ts
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
