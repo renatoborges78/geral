@@ -3,7 +3,7 @@
 #EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?IMDSFULL
 
-#EXTINF:0 group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)" tvg-logo="https://i.imgur.com/R8qQGoZ.png",SBT
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="Canais Abertos",SBT HD
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?IMDSFULL
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo SP HD
